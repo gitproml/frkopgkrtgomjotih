@@ -1,0 +1,10 @@
+services:
+- autoDeploy: false
+  env: image
+  image:
+    url: lxacs/hrgdxq:ogvexs
+  name: dweiojdoierjfior
+  numInstances: 1
+  plan: free
+  region: singapore
+  type: web
